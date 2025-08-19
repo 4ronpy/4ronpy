@@ -4,11 +4,11 @@
 
 ###
 
-<h1 align="center">4ronpy</h1>
+<h1 align="center">~/4ronpy ⌬</h1>
 
 ###
 
-<h3 align="left">Technologist | Full Stack in progress | Learning and mastering technologies</h3>
+<h3 align="center">Technologist | Full Stack in progress | Learning and mastering technologies</h3>
 
 ###
 
@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/4ronpy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo" />
   </a>
-  <a href="https://github.com/4ronpy" target="_blank">
+  <a href="https://github.com/yvngxsanty" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="github logo" />
   </a>
 </div>
@@ -72,8 +72,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4ronpy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=4ronpy&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4ronpy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=4ronpy&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5" height="220" alt="streak graph" />
 </div>
 
 ###
