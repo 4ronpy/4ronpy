@@ -74,7 +74,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4ronpy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=4ronpy&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=4ronpy&theme=graywhite" alt="GitHub Streak" /></a>
 </div>
 
 ###
