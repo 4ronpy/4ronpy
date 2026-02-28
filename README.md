@@ -56,14 +56,6 @@
 
 <p align="left">You can reach me at: <b>4ronpy.dev@gmail.com</b></p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/4ronpy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/yvngxsanty" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="github logo" />
-  </a>
-</div>
 
 ###
 
